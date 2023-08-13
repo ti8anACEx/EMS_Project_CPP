@@ -1,0 +1,10 @@
+
+Employee Serial No. 1
+
+Employee Name : JIt
+Employee ID : JIt
+Employee Address : JItt
+Employee Contact : 7575765
+Employee Salary : 876765765
+
+----------------------------------------------------------------

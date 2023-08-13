@@ -1,0 +1,3 @@
+username : namey
+password : namey
+packType : pro
